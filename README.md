@@ -71,7 +71,9 @@ python process_data.py
 * process_data.py: Script for processing the input data and saving the processed data.
 * requirements.txt: List of required Python packages.
 * README.md: Project documentation.
-**Features**
+  
+## **Features**
+
 * Text Processing: Converts text to lowercase, removes punctuation, tokenizes, and stems words.
 * Inverted Index: Builds an inverted index for efficient search.
 * Search Interface: Provides a user-friendly search interface using Streamlit.
